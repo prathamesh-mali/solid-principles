@@ -29,19 +29,19 @@ solid-principles/
 │
 ├── lib/
 │   ├── srp/
-│   │   └── single_responsibility.dart
+│   │   └── srp.dart
 │   │
 │   ├── ocp/
-│   │   └── open_closed.dart
+│   │   └── ocp.dart
 │   │
 │   ├── lsp/
-│   │   └── liskov_substitution.dart
+│   │   └── lsp.dart
 │   │
 │   ├── isp/
-│   │   └── interface_segregation.dart
+│   │   └── isp.dart
 │   │
 │   └── dip/
-│       └── dependency_inversion.dart
+│       └── dip.dart
 │
 └── README.md
 ```
